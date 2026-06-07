@@ -15,6 +15,6 @@ Responsive UI/UX design for a beauty products e-commerce website.
 
 ## Figma Link
 Paste your Figma link here.
+https://www.figma.com/design/B9LIzVBfyjSrHDDBEM0lZp/GlowBeauty?node-id=0-1&p=f&t=yE8IT81NyIofzopP-0
 
-## Portfolio Link
-Paste your portfolio link here.
+
